@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.exe
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.deps.json
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.runtimeconfig.json
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.dll
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\ref\03. Aluminum Joinery.dll
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.pdb
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.dll
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\ref\03. Aluminum Joinery.dll
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.pdb
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.genruntimeconfig.cache

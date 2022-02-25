@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.exe
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.deps.json
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.runtimeconfig.json
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.dll
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net5.0\ref\01. Agency Profit.dll
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\bin\Debug\net5.0\01. Agency Profit.pdb
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.dll
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net5.0\ref\01. Agency Profit.dll
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.pdb
+C:\Users\Marina\source\repos\Programming Basics Online Exam - 18 and 19 July 2020\01. Agency Profit\obj\Debug\net5.0\01. Agency Profit.genruntimeconfig.cache
